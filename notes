@@ -10,3 +10,6 @@ js
 cd vite-react
 npm install
 npm run dev
+
+marker is used for styling bullets here
+https://developer.mozilla.org/en-US/docs/Web/CSS/::marker
