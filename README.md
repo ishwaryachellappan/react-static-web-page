@@ -8,7 +8,7 @@ project name:<br>
 framework:react<br>
 js<br>
 
-# coomand for new project
+# command for new project
 cd vite-react<br>
 npm install<br>
 npm run dev<br>
