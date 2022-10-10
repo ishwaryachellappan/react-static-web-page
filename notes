@@ -1,0 +1,12 @@
+getting strtaed with vite
+
+install node and npm
+npm create vite@latest
+fproject name:
+freamework:react
+js
+
+
+cd vite-react
+npm install
+npm run dev
